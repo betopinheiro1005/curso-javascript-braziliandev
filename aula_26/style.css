@@ -1,0 +1,19 @@
+body{
+  background-color: #c2cbcb;;
+}
+.header {
+  background-color: black;
+  color: white;
+}
+.content{
+  background-color: #ff5757;
+  text-align: center;
+}
+.footer{
+  background-color: #dbdbdb;
+}
+#number-increment{
+  font-size: 30px;
+  font-weight: bold;
+  margin: 0;
+}

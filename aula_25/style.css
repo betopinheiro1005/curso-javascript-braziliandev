@@ -1,0 +1,13 @@
+body{
+  background-color: #c2cbcb;;
+}
+.header {
+  background-color: black;
+  color: white;
+}
+.content{
+  background-color: #ff5757;
+}
+.footer{
+  background-color: #dbdbdb;
+}
