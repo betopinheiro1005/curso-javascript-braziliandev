@@ -1,44 +1,41 @@
-# Curso de Javascript Avançado  
+# Curso de Javascript Básico  
 ## Brazilian Dev (Paulo Raoni)  
 ### Link dos videos  
-<https://www.youtube.com/watch?v=kGbbPBRFCE0&list=PL-R1FQNkywO4sD42B6OI6KjG3uOPT0aNl>
+<>
 
 ### Lista de aulas  
 
-Introdução  
-Aula 01 - let e const  
-Aula 02 - Arrow functions  
-Aula 03 - IIFE (Immediately Invoked Function Expression)  
-Aula 04 - For/Of Loop  
-Aula 05 - Classes  
-Aula 06 - Callback  
-Aula 07 - Herança no ES6 - Parte 1  
-Aula 08 - Herança no ES6 - Parte 2  
-Aula 89 - Template strings  
-Aula 10 - Prototypes  
-Aula 11 - Herança sem usar classes  
-Aula 12 - Promises  
-Aula 13 - Callbacks vs Promises  
-Aula 14 - Promise.Race()  
-Aula 15 - Async / Await  
-Aula 16 - Await com Then e Catch  
-Aula 17 - Try / Catch  
-Aula 18 - Níveis de try / catch  
-Aula 19 - Try / Catch Aninhado  
-Aula 20 - Arguments  
-Aula 21 - Rest Parameters  
-Aula 22 - Spread Operator  
-Aula 23 - Destructuring  
-Aula 24 - Parâmetros com Valores Predefinidos  
-
-
-
-
-
-
-
-
-
-
-
-
+Aula 01 - Introdução  
+Aula 02 - Variáveis  
+Aula 03 - Tipos Primitivos  
+Aula 04 = Tipos Number  
+Aula 05 - Tipo String  
+Aula 06 - Tipo Boolean  
+Aula 07 - Tipos null e undefined  
+Aula 08 - Functions  
+Aula 09 - Hoisting  
+Aula 10 = Estruturas condicionais  
+Aula 11 - Estruturas de repetição  
+Aula 12 - Objetos (Objects)  
+Aula 13 - Arrays  
+Aula 14 - Fun‡äes Construtoras  
+Aula 15 - Escopos  (exemplos)  
+Aula 15 - Escopos  
+Aula 16 - this em JS  
+Aula 17 - call, apply e bind  
+Aula 18 - Debugger  
+Aula 19 - Wrapper Functions  
+Aula 20 - Funções de Primeira Classe  
+Aula 21 - Métodos de Arrays (parte 1)  
+Aula 21 - Métodos de Arrays (parte 2)  
+Aula 22 - Métodos de Objetos  
+Aula 23 - Conhecendo o JSON  
+Aula 24 - Métodos de Strings (parte 1)  
+Aula 24 - Métodos de Strings (parte 2)  
+Aula 25 - HTML e CSS (parte 1)  
+Aula 25 - HTML e CSS (parte 2)  
+Aula 25 - HTML e CSS (parte 3)  
+Aula 26 - JavaScript no HTML  
+Aula 27 - Conceituando Web APIs  
+Aula 28 - Conceituando a API do DOM  
+Aula 29 - CRUD em JavaScript Manipulando o DOM  
