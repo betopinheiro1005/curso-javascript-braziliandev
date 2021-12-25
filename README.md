@@ -1,7 +1,7 @@
 # Curso de Javascript Básico  
 ## Brazilian Dev (Paulo Raoni)  
-### Link dos videos  
-<https://www.youtube.com/watch?v=63inpYKW7I4&list=PL-R1FQNkywO55236fniVp6LKGAVZXcmnr>
+
+### [Videos do curso](https://www.youtube.com/watch?v=63inpYKW7I4&list=PL-R1FQNkywO55236fniVp6LKGAVZXcmnr) 
 
 ### Lista de aulas  
 
